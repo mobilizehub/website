@@ -40,7 +40,13 @@
     "primary": {
       "type": "github",
       "href": "https://github.com/mobilizehub"
-    }
+    },
+    "links": [
+      {
+        "href": "/templates",
+        "label": "Templates"
+      }
+    ]
   },
   "contextual": {
     "options": [
