@@ -14,12 +14,10 @@
         "group": "Getting Started",
         "pages": [
           "index"
-        ],
-        "icon": "rocket"
+        ]
       },
       {
         "group": "Development",
-        "icon": "code",
         "pages": [
           "plugin"
         ]
@@ -28,8 +26,7 @@
         "group": "Templates",
         "pages": [
           "templates"
-        ],
-        "icon": "book"
+        ]
       }
     ]
   },
