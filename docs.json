@@ -14,13 +14,15 @@
         "group": "Getting Started",
         "pages": [
           "index"
-        ]
+        ],
+        "icon": "rocket"
       },
       {
         "group": "Templates",
         "pages": [
           "templates"
-        ]
+        ],
+        "icon": "book"
       }
     ]
   },
