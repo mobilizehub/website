@@ -39,8 +39,8 @@
   "navbar": {
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Contact us",
+      "href": "mailto:ryan@mobilizehub.com.com"
     }
   },
   "contextual": {
